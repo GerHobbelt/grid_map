@@ -2,6 +2,12 @@
 Changelog for package grid_map_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add test dependency to on rosbad default plugins (`#491 <https://github.com/ANYbotics/grid_map/issues/491>`_)
+* chore: replace deprecated rcpputils filesystem with std::filesystem (`#467 <https://github.com/ANYbotics/grid_map/issues/467>`_)
+* Contributors: Daisuke Nishimatsu, Ryan
+
 2.3.0 (2024-07-29)
 ------------------
 * Fix LoadFromBag assumptions causing C++ exceptions during serialization (`#438 <https://github.com/ANYbotics/grid_map/issues/438>`_)
