@@ -2,8 +2,8 @@
 Changelog for package grid_map_rviz_plugin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.4.0 (2025-09-14)
+------------------
 * Remove map_msgs exported dependency (`#524 <https://github.com/ANYbotics/grid_map/issues/524>`_)
   * This is unused
 * Contributors: Ryan

@@ -2,8 +2,8 @@
 Changelog for package grid_map_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.4.0 (2025-09-14)
+------------------
 * Fix UB in SpiralIterator::operator++ (`#481 <https://github.com/ANYbotics/grid_map/issues/481>`_)
   * Calling pop_back on an iterator past the end is UB
 * Contributors: Ryan
