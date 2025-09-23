@@ -2,6 +2,9 @@
 Changelog for package grid_map_visualization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 2.2.1 (2025-01-18)
 ------------------
 
