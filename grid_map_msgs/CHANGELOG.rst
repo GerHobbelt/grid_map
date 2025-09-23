@@ -2,8 +2,8 @@
 Changelog for package grid_map_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.2.2 (2025-09-23)
+------------------
 * Merge pull request `#527 <https://github.com/ANYbotics/grid_map/issues/527>`_ from ANYbotics/feature/ros1_bridge_mapping_support
   Added explicit ros1_bridge mapping support
 * Added ros1_bridge mapping support
